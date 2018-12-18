@@ -1,2 +1,2 @@
 # mpd
-This is my mpd config
+This is my mpd config (pulseaudio)
